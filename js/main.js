@@ -15,7 +15,7 @@ let title = album1.title = 'Talking Heads - 77'
 
 // Exercise 2: Assign the string 'Sire' from album1 to a variable named label
 
-
+let label = album1.albumDetails.label
 
 
 const album2 = {
